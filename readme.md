@@ -17,6 +17,6 @@ tricky to come by for Welsh. For English, there’s a 470k word list elsewhere o
 
 ## Development
 
-This script was written in the small hours of the morning on my phone, using the amazing [Pythonista](), while
+This script was written in the small hours of the morning on my phone, using the amazing [Pythonista](http://omz-software.com/pythonista/), while
 balancing my sleeping three-day-old baby on my knee. It’s not a great way of doing it, but it does work. 
 Run time on an iPhone 6s is of order a second.
